@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alexandra
+- 👀 I’m interested in web-desine and web development
+- 📫 How to reach me: garan.aleksandra@gmail.com
